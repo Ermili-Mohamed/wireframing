@@ -39,3 +39,19 @@ By stripping away visual design elements, wireframes allow designers to concentr
 ## Types of Wireframes
 ### Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
 ### High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+
+
+## Popular wireframing tools
+There are several wireframing tools available, most of which use the same underlying concepts. Figma is a great tool. Let’s take a moment to understand some wireframing basics.
+
+### 🧩 Wireframing Tools
+Wireframes help plan layout and functionality before development. Popular tools include:
+
+* Figma (Recommended)
+* Adobe XD
+*Sketch
+*Balsamiq
+
+#### 🌟 Why Figma?
+Figma is a browser-based design tool great for wireframing. It supports real-time collaboration, cross-platform access, and quick prototyping with reusable components—making it ideal for teams and solo designers.
